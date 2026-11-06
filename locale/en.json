@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Speaker axis studio",
+    "description": "Builds a speaker-colored ASS timing file from video or audio, without transcription or translation."
+  }
+}

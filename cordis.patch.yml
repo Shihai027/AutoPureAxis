@@ -1,0 +1,3 @@
+- insert:
+    - id: speaker-axis
+      name: '@local/dsh-speaker-axis'

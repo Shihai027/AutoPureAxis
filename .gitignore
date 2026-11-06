@@ -1,0 +1,8 @@
+node_modules/
+speaker-axis-output/
+*.ass
+*.log
+*.part
+.env
+.DS_Store
+Thumbs.db
