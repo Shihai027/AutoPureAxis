@@ -11,8 +11,8 @@ DeepSeek Harness 插件：输入一段视频或音频，识别其中的语音片
 ### 从 GitHub 克隆后安装到 Harness
 
 ```bash
-git clone https://github.com/<你的用户名>/dsh-speaker-axis.git
-cd dsh-speaker-axis
+git clone https://github.com/Shihai027/AutoPureAxis.git
+cd AutoPureAxis
 npm install --omit=dev
 ```
 
@@ -21,8 +21,8 @@ npm install --omit=dev
 ### 只使用 CLI
 
 ```bash
-git clone https://github.com/<你的用户名>/dsh-speaker-axis.git
-cd dsh-speaker-axis
+git clone https://github.com/Shihai027/AutoPureAxis.git
+cd AutoPureAxis
 npm install
 node bin/speaker-axis.mjs --help
 ```
